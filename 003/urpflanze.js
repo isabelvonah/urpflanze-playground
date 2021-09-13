@@ -2,7 +2,7 @@
  * Creating a scene with a rhombus and a line in the center
  */
  const scene = new Urpflanze.Scene({
-	color: '#a42',
+	color: '#f42',
 	background: '#6ca'
 })
 

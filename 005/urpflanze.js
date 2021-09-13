@@ -1,7 +1,7 @@
 
 const scene = new Urpflanze.Scene({
-	height: 2000,
-	width: 2000
+	height: 2150,
+	width: 2150
 })
 
 const line = new Urpflanze.Line({
@@ -35,8 +35,9 @@ group.add(line_2, line)
 
 const container = new Urpflanze.Shape({
 	shape: group,
-	rotateZ: Urpflanze.toRadians(-98),
-	scale: 6
+	rotateZ: Urpflanze.toRadians(-95),
+	scale: 6,
+	translate: [125,75]
 })
 
 

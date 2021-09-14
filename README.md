@@ -2,4 +2,4 @@
 
 [gitHub pages](https://isabelvonah.github.io/urpflanze-playground/)
 
-[Logo](https://isabelvonah.github.io/urpflanze-playground/005)
+[Logo01](https://isabelvonah.github.io/urpflanze-playground/005)

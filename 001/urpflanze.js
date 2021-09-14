@@ -1,7 +1,7 @@
 
 const scene = new Urpflanze.Scene({
-	height: 750,
-	width: 750
+	height: 1200,
+	width: 1200
 })
 
 scene.add()

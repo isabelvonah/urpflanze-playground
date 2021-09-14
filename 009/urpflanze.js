@@ -5,7 +5,7 @@ const scene = new Urpflanze.Scene({
 })
 
 const spiral = new Urpflanze.Spiral({
-	repetitions: [8],
+	repetitions:[8],
 	distance: 125,
 
 	rotateZ: Urpflanze.toRadians(40),
